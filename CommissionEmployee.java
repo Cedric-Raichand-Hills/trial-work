@@ -64,7 +64,6 @@ public class CommissionEmployee {
         }
     }
 
-    // Method to calculate earnings
     public double earnings() {
         return grossSales * commissionRate;
     }
