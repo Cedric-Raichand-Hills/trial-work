@@ -1,4 +1,4 @@
-CommissionEmployee Java Class
+#CommissionEmployee Java Class
 Overview
 CommissionEmployee is a Java class that models an employee who earns income based on a commission. The class keeps track of the employee's personal details, gross sales, and commission rate. It also validates inputs to ensure proper values for sales and commission.
 This program demonstrates object-oriented principles including encapsulation, data validation, and method overriding.
