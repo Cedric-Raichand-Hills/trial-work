@@ -98,7 +98,7 @@ public class CommissionEmployee {
             System.out.printf("\nEmployee Earnings: %.2f%n", employee.earnings());
 
 
-            System.out.println("\nTesting Invalid Values:");
+            System.out.println("\nTesting of Invalid Values:");
             employee.setGrossSales(-5000.0);
         } catch (IllegalArgumentException e) {
             System.err.println(e.getMessage());
