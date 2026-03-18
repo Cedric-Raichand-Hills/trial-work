@@ -19,3 +19,5 @@ grossSales must be ≥ 0.0
 commissionRate must be > 0.0 and ≤ 1.0
 Provides a formatted string representation of employee details using toString().
 Handles exceptions when invalid values are provided.
+
+Author: Cedric Raichand 
